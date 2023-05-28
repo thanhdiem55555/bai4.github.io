@@ -1,0 +1,216 @@
+.tren ul{
+    margin: auto;
+    font-size: 16px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-left: 100px;
+    position: relative;
+    bottom: 100px;
+}
+.tren .timkiem{
+    position: relative;
+    bottom: 120px;
+    margin-left: 1120px;
+    height: 100%;
+    width: 300%;
+}
+.duoi{
+    background-color: #FF9933;
+    min-height: 200px;
+    align-items: center;
+    width: 91%;
+    position: relative;
+    margin-left: 120px;
+    bottom: 100px;
+    min-height: 50px;
+}
+.duoi ul{
+    margin: auto;
+    font-size: 16px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    position: relative;
+    top: 15px;
+    margin-right: 20px;
+}
+.header .banner{
+    position: relative;
+    bottom: 90px;
+    width: 100%;
+    margin-left: 5px;
+}
+.left .mis{
+    position: relative;
+    bottom: 60px;
+    width: 50%;
+}
+.right .play{
+    position: relative;
+    bottom: 620px;
+    margin-left: 650px;
+    width: 50%;
+}
+.mid .tren{
+    position: relative;
+    bottom: 617px;
+    margin-left: 650px ;  
+}
+.mid .tren .pictur{
+    width: 50%;
+}
+.mid .dep .qua{
+    position: relative;
+    bottom: 856px;
+    margin-left: 970px ;
+    width: 24.5%; 
+}
+.sim ul{
+    list-style: none;
+    position: relative;
+    bottom: 1020px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.danh ul{
+    list-style: none;
+    position: relative;
+    bottom: 1350px;
+    left: 640px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.sach ul{
+    list-style: none;
+    position: relative;
+    bottom: 1200px;
+    left: 620px;
+    color: aliceblue;
+}
+.tuyen ul{
+    list-style: none;
+    position: relative;
+    bottom: 1285px;
+    left: 935px;
+    color: aliceblue;
+}
+.tintuc p{
+    position: relative;
+    bottom: 1280px;
+    font-size: 27px;
+    color: #FF9933;
+    left: 10px;
+}
+.kai .sa{
+    position: relative;
+    bottom: 1280px;
+    left: 10px;
+}
+.kai ul{
+    list-style: none;
+    position: relative;
+    bottom: 1420px;
+    left: 170px;
+}
+.rao .ruc{
+    position: relative;
+    bottom: 1350px;
+    left: 10px;
+}
+.rao ul{
+    list-style: none;
+    position: relative;
+    bottom: 1500px;
+    left: 170px;
+}
+.quyen .ru{
+    position: relative;
+    bottom: 1450px;
+    left: 10px;
+}
+.quyen ul{
+    list-style: none;
+    position: relative;
+    bottom: 1600px;
+    left: 170px;
+}
+.khoi .dau{
+    position: relative;
+    bottom: 1555px;
+    left: 10px;
+}
+.khoi ul{
+    list-style: none;
+    position: relative;
+    bottom: 1700px;
+    left: 170px;
+}
+.baiviet p{
+    position: relative;
+    bottom: 2382px;
+    left: 800px;
+    font-size: 27px;
+    color: #FF9933;
+}
+.baiviet .dk1 ul{
+    list-style: none;
+    position: relative;
+    bottom: 2380px;
+    left: 760px;
+    font-size: 16px;
+}
+.baiviet .dk2 ul{
+    list-style: none;
+    position: relative;
+    bottom: 2380px;
+    left: 760px;
+    font-size: 16px;
+}
+.baiviet .dk3 ul{
+    list-style: none;
+    position: relative;
+    bottom: 2380px;
+    left: 760px;
+    font-size: 16px;
+}
+.baiviet .dk4 ul{
+    list-style: none;
+    position: relative;
+    bottom: 2380px;
+    left: 760px;
+    font-size: 16px;
+}
+.baiviet .dk5 ul{
+    list-style: none;
+    position: relative;
+    bottom: 2380px;
+    left: 760px;
+    font-size: 16px;
+}
+.cuuam{
+    position: relative;
+    bottom: 2380px;
+    left: 800px;
+}
+.cuoi{
+    background-color: rgb(75, 74, 74);
+    height: 300px;
+    width: 100%;
+    position: relative;
+    bottom: 2300px;
+}
+.cuoi p{
+    position: relative;
+    top: 60px;
+    left: 80px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.thiet ul{
+    list-style: none;
+    position: relative;
+    top: 60px;
+    left: 40px;
+    color: aliceblue;
+}
